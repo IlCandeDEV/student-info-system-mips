@@ -1,0 +1,11 @@
+# Local simulator and generated files
+*.jar
+*.class
+*.log
+.DS_Store
+.idea/
+.vscode/
+output/
+tmp/
+# Private development tools
+test_mars_student_info_system.sh
